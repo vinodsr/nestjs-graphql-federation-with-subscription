@@ -14,7 +14,7 @@ Each of the folder is a valid npm project. You can run `npm install` to setup th
 | graphql-federation-department | the department microservice |
 | graphql-federation-user       | the user microservice       |
 
-# Url
+# Playground Urls
 
 | Url                           | Description                                                    |
 | ----------------------------- | -------------------------------------------------------------- |

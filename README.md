@@ -1,6 +1,6 @@
 # How to enable subscription in apollo graphql federated server using nestJS
 
-This repo is based on [this](https://vinodsr.com/myblog) blog.
+This repo is based on [this](https://vinodsr.com/myblog/2021/07/how-to-enable-subscription-in-apollo-federation-with-nestjs-graphql/) blog.
 
 # Installation
 

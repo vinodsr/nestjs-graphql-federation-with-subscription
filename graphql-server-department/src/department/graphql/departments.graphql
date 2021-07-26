@@ -1,0 +1,15 @@
+type Department @key(fields: "id") {
+  id: ID!
+  name: String
+}
+
+input CreateDepartmentInput {
+  name: String
+}
+type Query {
+  departments: [Department]
+}
+
+type Mutation {
+  createDepartment(createDepartmentInput: CreateDepartmentInput): Department
+}

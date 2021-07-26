@@ -1,0 +1,6 @@
+type User {
+  id: ID!
+  name: String
+  age: Int
+  department: Department
+}

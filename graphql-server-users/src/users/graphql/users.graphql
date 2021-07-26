@@ -1,0 +1,12 @@
+input CreateUserInput {
+  name: String
+  age: Int
+  department: Int
+}
+type Query {
+  users: [User]
+}
+
+type Mutation {
+  createUser(createUserInput: CreateUserInput): User
+}
